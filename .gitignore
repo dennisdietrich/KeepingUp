@@ -1,0 +1,5 @@
+# Private JetBrains IDE files
+.idea/
+
+# macOS Finder
+.DS_Store
