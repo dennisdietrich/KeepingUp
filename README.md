@@ -2,14 +2,14 @@
 Keeping up with the Commodore: 1980s performance optimization lessons still applicable today
 
 ## Description
-Imaging your wife has a great idea for a new talk featuring the legendary Commodore 64 and 40-year-old type-in programs in BASIC.
-You agree to help by typing in said programs only to find that one spends over 15 seconds to draw a chess board.
+Imaging helping out someone by preparing the demos for a retro computing talk featuring the legendary Commodore 64 and 40-year-old type-in programs in BASIC.
+And as you test the programs you just entered one numbered line at a time, you find that one spends over 15 seconds to draw a chess board.
 Another spends over a minute just to zero out 19 kB of RAM.
-Some just feel sluggish and slow to respond after initialization.
+Some feel sluggish and are slow to respond.
 Surely that's boring to watch during a live demo.
 So what do you do?
-Of course you start looking for ways to make things faster, but in the spirit of your wife's talk using only techniques available on actual hardware 40 years ago.
-In this talk we'll look at what makes Commodore BASIC so painfully slow, a few ways to deal with it, and how the lessons learnt are still applicable today.
+Of course you start looking for ways to make things faster, but in the spirit of the talk, using only techniques available on actual hardware 40 years ago.
+In this talk we'll look at what makes Commodore BASIC so painfully slow, a few ways to deal with it, and how the techniques I used are still relevant today.
 
 --------------------------------------------------------------------------------
 
