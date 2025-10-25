@@ -32,7 +32,7 @@ clearfinalpage
     sta (start),Y      ; Clear current byte
     cpy end            ; If last byte of last page was cleared return
     beq return
-    iny                ; Prepare next loop interation
+    iny                ; Prepare next loop iteration
     jmp clearfinalpage
 
 return
