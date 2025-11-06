@@ -1,5 +1,8 @@
 # Private JetBrains IDE files
 .idea/
 
+# Private VS Code (not an IDE) files
+.vscode/
+
 # macOS Finder
 .DS_Store
